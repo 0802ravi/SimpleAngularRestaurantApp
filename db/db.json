@@ -1,0 +1,48 @@
+{
+  "restaurants": [
+    {
+      "name": "ravi ranjan",
+      "email": "rseravi01@gmail.com",
+      "address": "#25 manjunath   3crs joyti nager",
+      "id": 1
+    },
+    {
+      "name": "ravi ranjan",
+      "email": "rseravi01@gmail.com",
+      "address": " manjunath   3crs joyti nager",
+      "id": 2
+    },
+    {
+      "name": "ravi ranjan",
+      "email": "rseravi01@gmail.com",
+      "address": "nager",
+      "id": 3
+    },
+    {
+      "name": "ravi ranjan kumar",
+      "email": "rseravi01@gmail.com",
+      "address": "nathanpura",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "peter",
+      "email": "p@test.com",
+      "password": "cvbjnl435",
+      "id": 1
+    },
+    {
+      "name": "anish pal",
+      "email": "ani@gmail.com",
+      "password": "23456sfdf",
+      "id": 2
+    },
+    {
+      "name": "kumar",
+      "email": "ajh@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ]
+}
